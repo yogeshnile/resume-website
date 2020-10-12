@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+.card-title{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 35px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@500&display=swap');
+.name-heading{
+    font-family: 'Commissioner', sans-serif;
+    font-size: 170%;
+}
+.phone-num{
+    font-family: 'Commissioner', sans-serif;
+}
