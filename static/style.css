@@ -12,3 +12,19 @@
 .phone-num{
     font-family: 'Commissioner', sans-serif;
 }
+.profile-image{
+    height: 200px;
+    width: 200px;
+    object-fit:cover;
+    background-size:cover;
+    background-position:center;
+    border-radius:50%;
+    position: relative;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 2px;
+    padding: 5px;
+    text-align: center;
+  }
