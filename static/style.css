@@ -27,4 +27,10 @@ table, th, td {
     margin: 2px;
     padding: 5px;
     text-align: center;
-  }
+}
+.main{
+    font-weight: bold;
+}
+.inherit{
+    font-weight: normal;
+}
